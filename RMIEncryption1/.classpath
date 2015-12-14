@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/ecj-4.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Niall/Desktop/Course/4th Year/Distributed Systems/Project/RMIEncryption/websocket-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
